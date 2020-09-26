@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/gatsby/node_modules
+/gatsby/.cache
+/gatsby/.pnp
+/gatsby.pnp.js
+
+# testing
+/gatsby/coverage
+
+# production
+/gatsby/build
+
+# misc
+/gatsby/.DS_Store
+/gatsby/.env.local
+/gatsby/.env.development.local
+/gatsby/.env.test.local
+/gatsby/.env.production.local
+
+/gatsby/npm-debug.log*
+/gatsby/yarn-debug.log*
+/gatsby/yarn-error.log*
+
+
+# dependencies
+/sanity/node_modules
+/sanity/.cache
+/sanity/.pnp
+/sanity.pnp.js
+
+# testing
+/sanity/coverage
+
+# production
+/sanity/build
+
+# misc
+/sanity/.DS_Store
+/sanity/.env.local
+/sanity/.env.development.local
+/sanity/.env.test.local
+/sanity/.env.production.local
+
+/sanity/npm-debug.log*
+/sanity/yarn-debug.log*
+/sanity/yarn-error.log*
